@@ -1,1 +1,21 @@
 /* start coding here */
+/* style.css */
+
+.registration-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  input {
+    height: 50px;
+    width: 240px;
+    border-radius: 3px;
+  }
+  button {
+    width: 120px;
+    height: 36px;
+    border: 1px solid lightgrey;
+    background-color: khaki;
+    border-radius: 3px;
+  }
+  
